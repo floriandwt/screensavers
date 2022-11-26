@@ -162,6 +162,10 @@ p {
   color: #252525;
 }
 
+.heading-2 {
+  font-weight: 500;
+}
+
 @media screen and (max-width: 767px) {
   .main {
     -webkit-box-align: start;
